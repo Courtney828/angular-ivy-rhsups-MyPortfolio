@@ -1,2 +1,30 @@
+Ul.nav-bar{background-color:darkgrey;margin:0;padding:0 }
+Ul.nav-bar
+li{list-style-type:none;float: right; }
+ 
+Ul.nav-bar li a{padding:5px;scroll-margin-left:15px ;color:black}
+Ul.nav-bar li a :hover{color:yellow}
 
+div {
+  background-image:url("https://images.pexels.com/photos/1772123/pexels-photo-1772123.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"); 
+  box-shadow: 0 10px 15px 0 rgb(0, 0,0.4);
+}
+body {
+  background-image: url("https://images.pexels.com/photos/1772123/pexels-photo-1772123.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+}
+body {
+    background-color:lightgrey;
+    
+  }
+  h1 {
+  text-decoration: overline;
+   font-style: italic;
+  }
+  IMG{ 
+border-radius: 50%;
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+  }
   
